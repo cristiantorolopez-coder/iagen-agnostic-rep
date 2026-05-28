@@ -1,13 +1,26 @@
+# ── Web framework ──────────────────────────────────────────────────────────
+Django>=5.0,<6.0
+djangorestframework>=3.15
+
+# ── Data / AI core ─────────────────────────────────────────────────────────
 pandas>=2.0
 anthropic>=0.25.0
 openai>=1.0
 python-dotenv>=1.0
 rapidfuzz>=3.0
 sqlalchemy>=2.0
+
+# ── Databricks Delta connector ──────────────────────────────────────────────
+databricks-sql-connector>=3.0
+
+# ── File parsers ───────────────────────────────────────────────────────────
 openpyxl>=3.1
 pdfplumber>=0.10
 python-pptx>=0.6
 python-docx>=1.1
 pdf2image>=1.17
 pytesseract>=0.3
+
+# ── Dev / testing ───────────────────────────────────────────────────────────
 pytest>=8.0
+pytest-django>=4.8

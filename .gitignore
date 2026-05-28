@@ -34,4 +34,4 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Input data (puede contener datos sensibles)
-smart-data-pipeline/input_data/
+# smart-data-pipeline/input_data/
