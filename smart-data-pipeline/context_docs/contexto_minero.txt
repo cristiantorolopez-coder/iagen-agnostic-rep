@@ -1,0 +1,69 @@
+
+MINERA COBRE DEL NORTE - CONTEXTO OPERACIONAL
+
+Historia:
+Minera Cobre del Norte fue fundada en 1998 como una operación enfocada en la extracción y procesamiento de cobre en la zona norte de Chile. Durante los primeros años, la operación trabajó principalmente con procesos de chancado y flotación convencional. En 2010 la compañía amplió su capacidad productiva incorporando nuevas líneas de molienda y automatización operacional.
+
+Producción Histórica:
+- 2018: 145.000 toneladas métricas finas de cobre.
+- 2019: 152.000 toneladas métricas finas.
+- 2020: 140.000 toneladas métricas finas debido a contingencias operacionales.
+- 2021: 165.000 toneladas métricas finas.
+- 2022: 172.000 toneladas métricas finas.
+- 2023: 181.000 toneladas métricas finas.
+- 2024: objetivo de 190.000 toneladas métricas finas.
+
+Procesos Operacionales:
+La operación contempla:
+- Mina rajo abierto.
+- Transporte mediante CAEX y correas transportadoras.
+- Planta concentradora.
+- Chancado primario y secundario.
+- Molienda SAG y bolas.
+- Flotación rougher y cleaner.
+- Espesamiento y filtrado.
+- Transporte de concentrado al puerto.
+
+KPIs Relevantes:
+- Toneladas procesadas.
+- Disponibilidad planta.
+- Recuperación metalúrgica.
+- Consumo específico de energía.
+- Consumo específico de agua.
+- Ley de cabeza.
+- Downtime operacional.
+- Producción diaria y mensual.
+
+Plan Diario Operacional:
+Cada turno operacional debe cumplir:
+- Objetivo de procesamiento diario de 32.000 toneladas.
+- Disponibilidad de planta superior a 92%.
+- Recuperación metalúrgica sobre 88%.
+- Consumo energético bajo 4.5 MWh por tonelada.
+- Control de detenciones no programadas.
+- Monitoreo de KPIs cada 2 horas.
+
+Áreas Principales:
+- Operaciones Mina.
+- Mantenimiento Planta.
+- Metalurgia.
+- Planificación.
+- Geología.
+- Medio Ambiente.
+- Control Gestión.
+- Supply Chain.
+
+Riesgos Operacionales:
+- Baja ley mineral.
+- Falla en molino SAG.
+- Problemas de abastecimiento hídrico.
+- Variaciones de precio del cobre.
+- Fallas eléctricas.
+- Downtime de correas.
+
+Objetivos Estratégicos:
+- Incrementar producción anual.
+- Reducir consumo de agua.
+- Mejorar recuperación metalúrgica.
+- Implementar IA para mantenimiento predictivo.
+- Automatizar reportabilidad operacional.

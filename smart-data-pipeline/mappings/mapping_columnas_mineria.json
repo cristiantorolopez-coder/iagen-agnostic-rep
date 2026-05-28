@@ -1,0 +1,129 @@
+[
+  {
+    "column_name": "fecha",
+    "aliases": [
+      "date",
+      "dia",
+      "fecha_operacion",
+      "operation_date"
+    ],
+    "business_description": "Fecha operacional correspondiente al registro productivo",
+    "data_type": "date",
+    "examples": [
+      "2024-01-01",
+      "2024-03-15"
+    ],
+    "category": "time"
+  },
+  {
+    "column_name": "faena",
+    "aliases": [
+      "mina",
+      "site",
+      "operacion",
+      "mine_site"
+    ],
+    "business_description": "Nombre de la operación minera o faena",
+    "data_type": "string",
+    "examples": [
+      "Escondida",
+      "Centinela"
+    ],
+    "category": "operations"
+  },
+  {
+    "column_name": "toneladas_procesadas",
+    "aliases": [
+      "tph",
+      "processed_tons",
+      "tonelaje",
+      "mineral_procesado"
+    ],
+    "business_description": "Cantidad total de toneladas procesadas por planta",
+    "data_type": "float",
+    "examples": [
+      2500.5,
+      7800.2
+    ],
+    "category": "production"
+  },
+  {
+    "column_name": "ley_mineral_pct",
+    "aliases": [
+      "ley",
+      "grade",
+      "copper_grade",
+      "ley_cobre"
+    ],
+    "business_description": "Porcentaje de ley promedio del mineral procesado",
+    "data_type": "float",
+    "examples": [
+      0.65,
+      1.12
+    ],
+    "category": "geology"
+  },
+  {
+    "column_name": "recuperacion_pct",
+    "aliases": [
+      "recovery",
+      "metal_recovery",
+      "recuperacion"
+    ],
+    "business_description": "Porcentaje de recuperación metalúrgica de la planta",
+    "data_type": "float",
+    "examples": [
+      82.5,
+      91.2
+    ],
+    "category": "metallurgy"
+  },
+  {
+    "column_name": "energia_mwh",
+    "aliases": [
+      "power",
+      "energy",
+      "consumo_energia",
+      "mwh"
+    ],
+    "business_description": "Consumo energético operacional medido en MWh",
+    "data_type": "float",
+    "examples": [
+      2500,
+      6700
+    ],
+    "category": "energy"
+  },
+  {
+    "column_name": "consumo_agua_m3",
+    "aliases": [
+      "water",
+      "agua",
+      "water_consumption",
+      "m3_agua"
+    ],
+    "business_description": "Volumen de agua consumida durante el proceso productivo",
+    "data_type": "float",
+    "examples": [
+      1200,
+      5400
+    ],
+    "category": "sustainability"
+  },
+  {
+    "column_name": "ingresos_estimados_usd",
+    "aliases": [
+      "revenue",
+      "ventas",
+      "income",
+      "usd_sales"
+    ],
+    "business_description": "Ingresos estimados asociados a la producción diaria",
+    "data_type": "float",
+    "examples": [
+      1500000,
+      890000
+    ],
+    "category": "finance"
+  }
+]
